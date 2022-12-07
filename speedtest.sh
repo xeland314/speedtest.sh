@@ -17,5 +17,5 @@ do
 done
 
 # Calculate the average of time execution
-awk -f average.awk /tmp/exetime
+awk -f calc.awk /tmp/exetime
 
